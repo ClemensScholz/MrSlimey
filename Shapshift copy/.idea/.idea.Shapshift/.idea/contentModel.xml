@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CameraFollow.cs" t="Include" />
+          <e p="Clean.cs" t="Include" />
+          <e p="ColorPickup.cs" t="Include" />
+          <e p="Controlls.cs" t="Include" />
+          <e p="End.cs" t="Include" />
+          <e p="PathWays.cs" t="Include" />
+          <e p="Quotes.cs" t="Include" />
+          <e p="Shape.cs" t="Include" />
+          <e p="ShapePickup.cs" t="Include" />
+          <e p="ShapesManager.cs" t="Include" />
+          <e p="UIMainMenu.cs" t="Include" />
+          <e p="UIShape.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Shapshift.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_Shapshift.-11768994.00" t="ExcludeRecursive" />
+  </component>
+</project>

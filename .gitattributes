@@ -1,0 +1,4 @@
+*.psdbc filter=lfs diff=lfs merge=lfs -text
+*.bs filter=lfs diff=lfs merge=lfs -text
+*.resS filter=lfs diff=lfs merge=lfs -text
+*.bc filter=lfs diff=lfs merge=lfs -text
